@@ -1,0 +1,21 @@
+<?php 
+$serverName04='192.168.100.1';
+$serverName06='';
+$serverName09='';
+$serverName11='';
+$serverName13='26.80.205.243';
+$serverName16='';
+$serverName19='26.88.156.100';
+$serverName28='26.79.80.160';
+$serverName30='26.80.113.14';
+$serverName31='';
+$serverName44='26.87.18.164';
+$serverName58='26.52.24.188';
+$serverName60='';
+$serverName62='';
+$serverName69='';
+$serverName74='26.89.52.207';
+$serverName90='';
+$serverName91='';
+
+ ?>
